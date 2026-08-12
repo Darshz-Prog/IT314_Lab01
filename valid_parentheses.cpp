@@ -32,7 +32,7 @@ bool isValid(string s) {
 int main() {
     string s;
 
-    cout << "Enter a string of brackets: ";
+    cout << "Enter a string of brckets: ";
     cin >> s;
 
     if (isValid(s))
